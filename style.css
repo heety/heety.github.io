@@ -41,7 +41,7 @@ body {
   font-size: 16px;
   font-weight: bold;
   color: #a5a5ff;
-  background-color: #4242e6;
+  background-color: #5530FF;
 }
 
 /* unvisited link */
@@ -64,7 +64,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #4242e6;
+  color: #5530FF;
   text-decoration: none;
 }
 
@@ -72,6 +72,7 @@ a:active {
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
   height: 100%;
   width: 100%;
 }
@@ -83,10 +84,15 @@ h1 {
   font-weight: bold;
 }
 
+.slogan {
+	text-align: center;
+	font-size: smaller;
+}
+
 .glitch {
   position: relative;
   margin: 0 auto;
-  background: #4242e6;
+  background: #5530FF;
 }
 
 .glitch::before,
@@ -106,7 +112,7 @@ h1 {
   animation-duration: 4s;
   left: 4px;
   text-shadow: -1px 0 #ffa800;
-  background: #4242e6;
+  background: #5530FF;
 }
 
 .glitch::before {
@@ -114,7 +120,7 @@ h1 {
   animation-duration: 6s;
   left: -4px;
   text-shadow: 1px 0 #00d8ff;
-  background: #4242e6;
+  background: #5530FF;
 }
 
 /* Expanded Animations */
