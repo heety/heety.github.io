@@ -41,7 +41,7 @@ body {
   font-size: 16px;
   font-weight: bold;
   color: #a5a5ff;
-  background-color: #5530FF;
+  background-color: #551EFF;
 }
 
 /* unvisited link */
@@ -64,7 +64,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #5530FF;
+  color: #551EFF;
   text-decoration: none;
 }
 
@@ -92,7 +92,7 @@ h1 {
 .glitch {
   position: relative;
   margin: 0 auto;
-  background: #5530FF;
+  background: #551EFF;
 }
 
 .glitch::before,
@@ -112,7 +112,7 @@ h1 {
   animation-duration: 4s;
   left: 4px;
   text-shadow: -1px 0 #ffa800;
-  background: #5530FF;
+  background: #551EFF;
 }
 
 .glitch::before {
@@ -120,7 +120,7 @@ h1 {
   animation-duration: 6s;
   left: -4px;
   text-shadow: 1px 0 #00d8ff;
-  background: #5530FF;
+  background: #551EFF;
 }
 
 /* Expanded Animations */
