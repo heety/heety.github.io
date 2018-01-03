@@ -112,7 +112,7 @@ h1 {
   animation-duration: 4s;
   left: 4px;
   text-shadow: -1px 0 #ffa800;
-  background: #551EFF;
+  background: #FFE63B;
 }
 
 .glitch::before {
@@ -120,7 +120,7 @@ h1 {
   animation-duration: 6s;
   left: -4px;
   text-shadow: 1px 0 #00d8ff;
-  background: #551EFF;
+  background: #FFE63B;
 }
 
 /* Expanded Animations */
